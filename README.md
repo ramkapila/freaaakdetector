@@ -66,14 +66,6 @@ OUTPUT WINDOWS
 Both windows can be closed by pressing the ESC key.
 
 -----------------------------------------------------------
-AUTHOR
------------------------------------------------------------
-Created by Andrew Allen  
-Instagram: ElijahCyber 
-LinkedIn: https://www.linkedin.com/in/andrew-allen-655499190/
-Last updated: October 2025  
-
------------------------------------------------------------
 NOTES
 -----------------------------------------------------------
 - Make sure your webcam is connected and accessible.  
